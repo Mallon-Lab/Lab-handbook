@@ -18,7 +18,7 @@ Welcome to the Mallon Lab handbook. This document contains everything you need t
 
 | Name | Role | Email |
 |------|------|-------|
-| Prof Eamonn Mallon | PI | ebm3@le.ac.uk |
-| Dr Christian Thomas | Postdoctoral Researcher | clt54@le.ac.uk |
+| Eamonn Mallon | PI | ebm3@le.ac.uk |
+| Christian Thomas | Postdoctoral Researcher | clt54@le.ac.uk |
 | Fabiana Franco | PhD Student | ff107@le.ac.uk |
 | Kiran | PhD Student | — |
