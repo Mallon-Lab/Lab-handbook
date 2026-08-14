@@ -1,9 +1,12 @@
-# Risk Assessments
+# Risk assessments
 
-All COSHH forms are stored in the `COSHH/` folder. Familiarise yourself with the relevant risk assessment before starting any experiment.
+COSHH documents for all reagents and protocols used in Lab 519. Familiarise yourself with the relevant forms before starting any experiment.
 
-| Protocol | COSHH Document |
-|----------|---------------|
-| Qiagen EpiTect Bisulphite Kit | [COSHH_EpiTect.pdf](COSHH/COSHH_EpiTect.pdf) |
+| Reagent / Kit | COSHH document |
+|---|---|
+| Qiagen EpiTect Bisulphite Kit | [COSHH_EpiTect.pdf](risk-assessment-pdfs/COSHH_EpiTect.pdf) |
+| Chemgene HLD4L | [COSHH_Chemgene.pdf](risk-assessment-pdfs/COSHH_Chemgene.pdf) |
+| Ethanol (100%) | [COSHH_Ethanol.pdf](risk-assessment-pdfs/COSHH_Ethanol.pdf) |
+| Qiagen DNeasy Blood & Tissue Kit | [COSHH_DNeasy.pdf](risk-assessment-pdfs/COSHH_DNeasy.pdf) |
 
-*Additional risk assessments to be added.*
+Add new rows as reagents are introduced. Keep COSHH PDFs in `risk-assessment-pdfs/` and link from this table.
