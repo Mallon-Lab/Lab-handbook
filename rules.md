@@ -6,10 +6,10 @@ Our lab is located in the Hodgkin building, room 519. Eamonn's office is within 
 
 | Name | Role | Email |
 |---|---|---|
-| Prof Eamonn Mallon | PI | ebm3@le.ac.uk |
-| Dr Christian Thomas | PDRA | clt54@le.ac.uk |
+| Eamonn Mallon | PI | ebm3@le.ac.uk |
+| Christian Thomas | PDRA | clt54@le.ac.uk |
 | Fabiana Franco | PhD student | ff107@le.ac.uk |
-| Kiran | PhD student | TBC |
+| Kiran Kaur | PhD student | TBC |
 
 Wasps are kept in an incubator in lab 519 and are reared in room [TBC] on the 6th floor of the Hodgkin building. Trikinetics and Ethoscope experiments are carried out in room [TBC] on the 4th floor.
 
