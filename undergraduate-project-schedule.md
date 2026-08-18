@@ -14,7 +14,7 @@ Each year the lab takes on undergraduate project students. Their main lab day is
 
 **AFHEA log.** If you are working towards your Associate Fellowship of the Higher Education Academy (AFHEA), use your week as a teaching opportunity and keep a log of the techniques and approaches you used. The university will fund your AFHEA application. More information: [Associate Fellowship, Advance HE](https://advance-he.ac.uk/fellowship/associate-fellowship/).
 
-If you cannot cover your assigned week, or would like to take on an additional week, contact Eamonn to rearrange.
+If you cannot cover your assigned week, or would like to take on an additional week, contact Eamonn or Hollie to rearrange.
 
 ---
 
