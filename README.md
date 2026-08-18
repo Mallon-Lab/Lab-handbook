@@ -4,7 +4,8 @@ Welcome to the Mallon Lab handbook. This document contains everything you need t
 
 ## Contents
 
-- [Rules](rules.md)
+- [Undergraduate project schedule](undergraduate-project-schedule.md)
+- [Rules](rules.md) 
   - [Lab Structure](rules.md#lab-structure)
   - [Working Patterns](rules.md#working-patterns)
   - [Supervision](rules.md#supervision)
