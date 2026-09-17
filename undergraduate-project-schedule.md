@@ -22,10 +22,10 @@ If you cannot cover your assigned week, or would like to take on an additional w
 
 | Week (Tuesday) | Activity | Location | Person leading |
 |---|---|---|---|
-| 1 – 22 Sept | Lab inductions and setting up own wasp stocks | | Eamonn + Hollie |
-| 2 – 29 Sept | Wasp sexing and primer design | | Eamonn + Hollie |
+| 1 – 22 Sept |Welcome meeting and papers| | Eamonn + Hollie |
+| 2 – 29 Sept | Lab inductions, setting up own wasp stocks, wasp sexing and primer design | | Eamonn + Hollie |
 | 3 – 6 Oct | Trikinetics set-up | | Christian + Kiran |
-| 4 – 13 Oct | Chronic exposure set-up | | |
+| 4 – 13 Oct | Chronic exposure set-up | | Chloe? |
 | 5 – 20 Oct | DNA extractions | | Dayna |
 | 6 – 27 Oct | Infographic work | N/A | N/A |
 | 7 – 3 Nov | Bisulfite PCR and sequencing | | Cara |
